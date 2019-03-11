@@ -1,0 +1,23 @@
+{
+  "name": "proyectou2",
+  "version": "1.0.0",
+  "description": "Aplicaciones Empresariales U2 enviar correo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianPadilla/PROYECTOU2.git"
+  },
+  "author": "BrianPadilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianPadilla/PROYECTOU2/issues"
+  },
+  "homepage": "https://github.com/BrianPadilla/PROYECTOU2#readme",
+  "dependencies": {
+    "async": "^2.6.2",
+    "sendgrid": "^5.2.3"
+  }
+}
